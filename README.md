@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Gonzalo</h1>
-<h3 align="center">Estudiante de Ingeniería civil en informática y telecomunicaciones - UDP</h3>
+<h3 align="center">Ingeniero civil en informática y telecomunicaciones - UDP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tukzon&label=Visitas&color=0eba0a&style=flat" alt="tukzon" /> </p>
 
